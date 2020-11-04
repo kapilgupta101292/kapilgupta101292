@@ -21,9 +21,9 @@ Hi, I'm [Kapil Gupta](https://www.linkedin.com/in/kapilguptansit/), a Full Stack
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently working in Java, Spring and React.;
+- 🌱 I’m currently working in Java, Spring and React;
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://drive.google.com/file/d/1j4107kKjh_FXukjZBEXgI6q6PVYubGXe/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1j4107kKjh_FXukjZBEXgI6q6PVYubGXe/view?usp=sharing)
 
 **Languages and Tools:**
 
@@ -31,6 +31,8 @@ Hi, I'm [Kapil Gupta](https://www.linkedin.com/in/kapilguptansit/), a Full Stack
 <code><img height="20" src="https://ertan-toker.de/wp-content/uploads/2018/04/spring-boot-project-logo-1-thegem-blog-default-large.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://www.cbronline.com/wp-content/uploads/2019/12/kafka2.jpg"></code>
+<code><img height="20" src="https://img.icons8.com/color/452/elasticsearch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
