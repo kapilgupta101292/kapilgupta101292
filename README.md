@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Kapil Gupta](https://www.linkedin.com/in/kapilguptansit/), a Full Stack Developer 🚀 from India, currently, I'm a Working as a Senior Software Engineer in Gurgaon. Beside programming, I enjoy playing badminton, running and traveling.
+Hi, I'm [Kapil Gupta](https://www.linkedin.com/in/kapilguptansit/), a Full Stack Developer 🚀 from India, currently, I'm a Working as a Technical Lead in Gurgaon. Beside programming, I enjoy playing badminton, running and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/kapilgupta101292/kapilgupta101292/blob/master/code.gif?raw=true" width="500" height="320" />
   
